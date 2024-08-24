@@ -140,9 +140,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 4. Push to the branch (`git push origin feature-branch`)
 5. Open a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
@@ -151,4 +148,4 @@ For any inquiries or suggestions, feel free to reach out to:
 
 ---
 
-This README file should give users and developers a comprehensive understanding of your Gemini AI Clone project, including its features, setup instructions, and potential for customization and improvement.
+
