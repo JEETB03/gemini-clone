@@ -1,6 +1,3 @@
-Below is a detailed README file for your project:
-
----
 
 # Gemini AI Clone
 
