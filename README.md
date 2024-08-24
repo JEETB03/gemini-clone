@@ -108,7 +108,7 @@ Gemini-AI-Clone/
    yarn dev
    ```
 
-2. **Open your browser** and go to `http://localhost:3000` to see the application in action.
+2. **Open your browser** and go to the localhost address displayed in the terminal (example --> `http://localhost:5173`) to see the application in action.
 
 ## How It Works
 
